@@ -7,7 +7,8 @@ pip install paramiko
 
 2) clone the repo
 
-3) provide below inputs in remove_server.py file 
+3) provide below inputs in remove_server.py file
+   
 #DAPO_Details
 dapo_hostname
 dapo_ssh_port
