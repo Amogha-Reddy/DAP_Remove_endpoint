@@ -10,10 +10,10 @@ pip install paramiko
 3) provide below inputs in remove_server.py file
    
 #DAPO_Details
-dapo_hostname
-dapo_ssh_port
-dapo_username
-dapo_password
+a) dapo_hostname
+b) dapo_ssh_port
+c) dapo_username
+d) dapo_password
 
 #node_details
-svc_tag
+a) svc_tag
